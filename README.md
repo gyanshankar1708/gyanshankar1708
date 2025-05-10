@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development and Data Structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://gyanshankar1708.github.io/Protfolio/](https://gyanshankar1708.github.io/Protfolio/)
+- 👨‍💻 All of my projects are available at [https://gyanshankar1708.netlify.app/](https://gyanshankar1708.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
