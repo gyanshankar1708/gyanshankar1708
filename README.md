@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyanshankar Singh</h1>
-<h3 align="center">2nd year Computer Science and Engineering student.</h3>
+<h3 align="center">3rd year Computer Science and Engineering student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanshankar1708&label=Profile%20views&color=0e75b6&style=flat" alt="gyanshankar1708" /> </p>
 
