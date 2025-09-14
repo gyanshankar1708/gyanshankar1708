@@ -25,4 +25,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanshankar1708&show_icons=true&locale=en&layout=compact" alt="gyanshankar1708" /></p>
 
+## LeetCode Stats & DSA <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" alt="ChainSink">
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/gyanshankar1708?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" height=300px/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=gyanshankar1708&theme=dark&animated=true" alt="LeetCode Badges" height=300px/>
+</div>
+
 [![An image of @gyanshankar1708's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyanshankar1708)](https://holopin.io/@gyanshankar1708)
