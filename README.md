@@ -33,12 +33,12 @@ I am a dedicated and precise coder who loves transforming creative concepts into
 
 <div align="center">
 <strong>Languages:</strong><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c" />
 </div>
 
 <div align="center">
 <strong>Tools, Frameworks & Databases:</strong><br>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,django,mysql,oracle,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap,django,mysql,oracle,git,github,figma,vscode" />
 </div>
 
 ---
