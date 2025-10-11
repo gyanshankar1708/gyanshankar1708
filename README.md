@@ -1,36 +1,115 @@
-<h1 align="center">Hi 👋, I'm Gyanshankar Singh</h1>
-<h3 align="center">Pre Final year Computer Science and Engineering student.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanshankar1708&label=Profile%20views&color=0e75b6&style=flat" alt="gyanshankar1708" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanshankar1708" alt="gyanshankar1708" /></a> </p>
-
-- 🌱 I’m currently learning **Web Development and Data Structure and Algorithm**
-
-- 👨‍💻 All of my projects are available at [https://gyanshankar1708.netlify.app/](https://gyanshankar1708.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gyanshankar1708/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gyanshankar1708/" height="30" width="40" /></a>
-<a href="https://instagram.com/gyanshankar1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gyanshankar1708" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gyanshankar1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gyanshankar1708" height="30" width="40" /></a>
-<a href="https://www.hackerank.com/gyanshankar1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gyanshankar1708" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gyanshankar1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gyanshankar1708" height="30" width="40" /></a>
-<a href="https://discord.gg/gyanshankar1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gyanshankar1708" height="30" width="40" /></a>
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanshankar1708&show_icons=true&locale=en&layout=compact" alt="gyanshankar1708" /></p>
-
-## LeetCode Stats & DSA <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" alt="ChainSink">
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/gyanshankar1708?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" height=200px/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=gyanshankar1708&theme=dark&animated=true" alt="LeetCode Badges" height=200px/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI4OWd0bjFwc2licDB0YWRjdGZ1cHJpZGZoNTkzOXQ3ZGRua2JpeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Technical Banner"/>
 </div>
 
-[![An image of @gyanshankar1708's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gyanshankar1708)](https://holopin.io/@gyanshankar1708)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=0078FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gyanshankar+Pd+Singh+👋;Pre-Final+Year+CSE+Student+💻;Frontend+Developer+%26+Backend+Learner+🌐;Passionate+About+Building+%26+Innovating+💡" alt="Typing SVG" />
+</div>
+
+---
+
+### 🧑‍💻 About Me
+Hey there! I'm **Gyanshankar Pd Singh**, a pre-final year Computer Science Engineering student passionate about **Frontend Development** and **Open Source**.
+
+I am a dedicated and precise coder who loves transforming creative concepts into smooth, interactive, and accessible digital experiences using code.
+
+- 🌱 Currently expanding skills in **Backend Development with Django**.
+- 🔭 Actively contributing to **[GrowCraft](https://github.com/gyanshankar1708/GrowCraft)**, an open-source ed-tech platform.
+- 👯 Looking to collaborate on **open-source projects in web development and ed-tech**.
+- 💬 Ask me about **React, Frontend Development, Data Structures, and Algorithms**.
+- 💡 Mantra: “The best way to learn is by building and collaborating.”
+
+---
+
+### 🏆 My GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gyanshankar1708&theme=darkhub&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+<strong>Languages:</strong><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
+</div>
+
+<div align="center">
+<strong>Tools, Frameworks & Databases:</strong><br>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,django,mysql,oracle,git,github,figma,vscode" />
+</div>
+
+---
+
+### 🚀 Featured Project: GrowCraft
+
+| Project Name | Description | Tech Stack | Links |
+|--------------|-------------|------------|-------|
+| **GrowCraft** | An open-source platform helping students find training and internships. Registered in **GSSoC'25 & Hacktoberfest'25**. | `HTML` `CSS` `Bootstrap CSS` `Javascript` | [Repo](https://github.com/gyanshankar1708/GrowCraft) |
+
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gyanshankar1708&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanshankar1708&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanshankar1708&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+</div>
+
+---
+
+### ⚡ Fun Fact
+> “I believe the best way to learn is by building and collaborating!”
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/gyanshankar1708/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Gyanshankar%20Pd%20Singh-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://twitter.com/gyanshankar1708" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-@gyanshankar1708-1DA1F2?style=for-the-badge&logo=twitter" />
+</a>
+<a href="mailto:gyanshankar1708@gmail.com">
+<img src="https://img.shields.io/badge/Email-gyanshankar1708%40gmail.com-orange?style=for-the-badge&logo=gmail" />
+</a>
+</div>
+
+---
+
+### 💻 My LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/gyanshankar1708/">
+    <img src="https://leetcard.jacoblin.cool/gyanshankar1708?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats Card">
+  </a>
+</p>
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=gyanshankar1708&theme=dark&animated=true" alt="LeetCode Badges" />
+</p>
+
+---
+### 🏆 Achievements & Badges
+
+<div align="center">
+
+<a href="https://holopin.io/@gyanshankar1708">
+  <img src="https://holopin.io/api/user/board?user=gyanshankar1708" alt="Holopin board for @gyanshankar1708" />
+</a>
+</div>
+
+---
