@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=0078FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gyanshankar+Pd+Singh+👋;Pre-Final+Year+CSE+Student+💻;Frontend+Developer+%26+Backend+Learner+🌐;Passionate+About+Building+%26+Innovating+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=0078FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gyanshankar+Pd+Singh+👋;Pre-Final+Year+CSE+Student+💻;Frontend+Developer+%26+Backend+Learner+🌐;Passionate+About+Building+%26+Innovating+💡;Machine+Learning+Learner+💡" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,7 +13,7 @@ Hey there! I'm **Gyanshankar Pd Singh**, a pre-final year Computer Science Engin
 
 I am a dedicated and precise coder who loves transforming creative concepts into smooth, interactive, and accessible digital experiences using code.
 
-- 🌱 Currently expanding skills in **Backend Development with Django**.
+- 🌱 Currently expanding skills in **Machine Learning**.
 - 🔭 Actively contributing to **[GrowCraft](https://github.com/gyanshankar1708/GrowCraft)**, an open-source ed-tech platform.
 - 👯 Looking to collaborate on **open-source projects in web development and ed-tech**.
 - 💬 Ask me about **React, Frontend Development, Data Structures, and Algorithms**.
